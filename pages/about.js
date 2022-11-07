@@ -8,7 +8,7 @@ export default function About() {
                 <h1 className='text-3xl text-sky-400 animate animate-pulse'>About Me</h1>
             </div>
             <div className='text-2xl flex justify-evenly mx-8'>
-                <p> Hello, I'm from Arizona. ☀️ <br/>
+                <p> Hello, I am from Arizona. ☀️ <br/>
                 I love playing video games on my down time and long to have a cat. <br/>
                 My current favorite game is Rocket league and have been playing it for about<br/> 4yrs now.
                 I would say that my passion for playing video games has led me down <br/>
