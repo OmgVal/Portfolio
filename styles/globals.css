@@ -7,6 +7,10 @@ html {
   font-family: 'Fjalla One', sans-serif;
 }
 
+body {
+  background-color: black;
+}
+
 .custom-img {
   background-image: url(../public/cover.jpg);
 }

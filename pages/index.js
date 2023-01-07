@@ -25,7 +25,7 @@ export default function Home() {
                     src="/Giftastic.png" alt="PROJECT 2" style={{width: 'fit'}} />
                   <div className="p-6 hover:bg-indigo-700 hover:text-white transition duration-300 ease-in">
                     <h2 className="text-base font-medium text-indigo-300 mb-1">FULL-STACK APPLICATION </h2>
-                    <h1 className="text-2xl font-semibold mb-3">GIFTASTIC: TECH USED WAS NODE.JS, EJS, JAVASCRIPT, BOOTSTRAP, POSTGRESQL, AXIOS, ETC.</h1>
+                    <h1 className="text-2xl font-semibold mb-3">GIF-TASTIC: TECH USED WAS NODE.JS, EJS, JAVASCRIPT, BOOTSTRAP, POSTGRESQL, AXIOS, ETC.</h1>
                     <div className="flex items-center flex-wrap ">
                       <a className="text-cyan-300 inline-flex items-center md:mb-2 lg:mb-0" href='https://github.com/OmgValicious/Project-2'>GitHub
                         <svg className="w-4 h-4 ml-2 animate-pulse" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"

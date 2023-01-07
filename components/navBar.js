@@ -42,7 +42,7 @@ export default function NavBar(){
                         <li className="p-4">
                             <Link href='/about'>About Me</Link>
                         </li>
-                        <li className="p-4 ">
+                     <li className="p-4 ">
                             <Link href='/contact'>Contact</Link>
                         </li>
                     </ul>
