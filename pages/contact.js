@@ -10,7 +10,7 @@ export default function Contact() {
             <div className='flex justify-center'>
           <ul className='inline-flex justify-center'>
             <li className='text-8xl p-2'>
-                <a href='https://github.com/OmgValicious'>
+                <a href='https://github.com/OmgVal'>
                     <DiGithubBadge />
                 </a>
                     <p className='text-xl p-1 flex justify-center'>Github</p>
