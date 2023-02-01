@@ -21,6 +21,11 @@ html {
   justify-content: center;
 }
 
+.titleDes h1 {
+  font-size: 80px;
+  font-weight: 600;
+}
+
 body {
   color:rgb(255, 255, 255);
   background: linear-gradient(10deg, #ffffff 50%, #000000 50%);

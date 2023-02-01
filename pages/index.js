@@ -80,8 +80,8 @@ export default function Home() {
             </div>
         </div>
       </div>
-      <div className='mt-5 mb-12'>
-        <h1 className='flex justify-center text-4xl font-bolder text-sky-400 p-8' >
+      <div className='mt-5 mb-12 text-black'>
+        <h1 className='flex justify-center text-4xl font-bolder text-gray-600 p-8' >
           Skills:
         </h1>
         
